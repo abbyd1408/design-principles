@@ -24,7 +24,7 @@ header {
   padding: 30px;
   text-align: center;
   font-size: 1.4em;
-  background-color:#FBC2FF;
+  background-color:#FF87A7;
   color: white;
 }
 
@@ -34,7 +34,7 @@ main {
 }
 
 nav {
-  background-color: #A671FF;
+  background-color: #3F9FCC;
   padding: 20px;
 
 }
@@ -46,7 +46,7 @@ nav li {
 
 aside {
   padding: 20px;
-  background-color:#56E8E3 ;
+  background-color: #D9B3FF;
   color: white;
 }
 
